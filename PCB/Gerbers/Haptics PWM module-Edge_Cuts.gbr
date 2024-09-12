@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-09-01T22:57:31-05:00*%
+%TF.ProjectId,Haptics PWM module,48617074-6963-4732-9050-574d206d6f64,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-01 22:57:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X80000000Y-112500000D02*
+X127000000Y-112500000D01*
+X127000000Y-147000000D01*
+X80000000Y-147000000D01*
+X80000000Y-112500000D01*
+M02*

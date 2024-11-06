@@ -910,12 +910,6 @@
 		(uuid "36e9a2c1-bf1f-4cb5-af3f-a5147159663b")
 	)
 	(junction
-		(at 96.52 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ee2f24f-f74a-4563-a658-130b76cc3be3")
-	)
-	(junction
 		(at 140.97 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -940,22 +934,10 @@
 		(uuid "7d11d369-11cb-4d75-88fe-09af8d8ee30b")
 	)
 	(junction
-		(at 149.86 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82e0ef70-2b0a-48c3-a484-3fe4f5937d2d")
-	)
-	(junction
 		(at 166.37 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87949a20-060a-4186-b296-7ab3929ef196")
-	)
-	(junction
-		(at 133.35 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8e35b4f7-a3c2-4cb4-abfa-751245a4cecf")
 	)
 	(junction
 		(at 149.86 120.65)
@@ -964,22 +946,10 @@
 		(uuid "8fd16d56-886d-453d-a3c4-773673bdff11")
 	)
 	(junction
-		(at 106.68 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "afc1c386-724d-4003-8235-29d050dd77af")
-	)
-	(junction
 		(at 173.99 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b02e92c5-c859-4b52-aac1-e463187916b1")
-	)
-	(junction
-		(at 140.97 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c1ff9f2c-8bc9-4fba-8292-6da01283928f")
 	)
 	(junction
 		(at 133.35 120.65)
@@ -992,12 +962,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d6b504f5-75c3-40a7-81e5-7d248ba4928c")
-	)
-	(junction
-		(at 116.84 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4dc2ac0-5f63-46b5-bf9a-d9cf6c55a04b")
 	)
 	(junction
 		(at 191.77 71.12)
@@ -1093,6 +1057,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 86.36) (xy 127 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b3057b5-e361-43e8-84c3-852cff2c5506")
+	)
+	(wire
+		(pts
 			(xy 149.86 101.6) (xy 194.31 101.6)
 		)
 		(stroke
@@ -1100,16 +1074,6 @@
 			(type default)
 		)
 		(uuid "214321ee-3eab-4764-bd71-0bac8370f967")
-	)
-	(wire
-		(pts
-			(xy 106.68 86.36) (xy 116.84 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21b27091-179a-4548-beed-a6fa9b27338e")
 	)
 	(wire
 		(pts
@@ -1173,26 +1137,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 101.6) (xy 149.86 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ededc69-f96e-4393-b82c-c55f5c3bd1f8")
-	)
-	(wire
-		(pts
-			(xy 116.84 93.98) (xy 116.84 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5053035f-7653-459c-a0c5-7ea6935341b8")
-	)
-	(wire
-		(pts
 			(xy 157.48 120.65) (xy 166.37 120.65)
 		)
 		(stroke
@@ -1243,16 +1187,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 86.36) (xy 96.52 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c304a86-ca4c-4677-a46d-20ea9e09bc5c")
-	)
-	(wire
-		(pts
 			(xy 184.15 55.88) (xy 191.77 55.88)
 		)
 		(stroke
@@ -1270,16 +1204,6 @@
 			(type default)
 		)
 		(uuid "89040132-1898-4af9-866e-6fa06fef8efb")
-	)
-	(wire
-		(pts
-			(xy 116.84 86.36) (xy 127 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a37d819-bb05-48df-a28e-a4d895b47caf")
 	)
 	(wire
 		(pts
@@ -1353,16 +1277,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 93.98) (xy 106.68 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab10c810-f70e-4bf9-b44d-d41b9e058c54")
-	)
-	(wire
-		(pts
 			(xy 173.99 110.49) (xy 173.99 93.98)
 		)
 		(stroke
@@ -1423,16 +1337,6 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 106.68) (xy 96.52 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c783ea86-e08b-475a-9dc0-8d627affb97e")
-	)
-	(wire
-		(pts
 			(xy 147.32 93.98) (xy 173.99 93.98)
 		)
 		(stroke
@@ -1453,16 +1357,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 104.14) (xy 140.97 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d031e4de-f12c-4294-b2d4-30ff1bbd49dd")
-	)
-	(wire
-		(pts
 			(xy 140.97 115.57) (xy 140.97 120.65)
 		)
 		(stroke
@@ -1480,16 +1374,6 @@
 			(type default)
 		)
 		(uuid "d9fefcec-4e77-49bf-8a12-904e5078f52c")
-	)
-	(wire
-		(pts
-			(xy 96.52 106.68) (xy 96.52 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "daadf25d-d596-4e9e-8c25-cd009e59d0f8")
 	)
 	(wire
 		(pts
@@ -1571,15 +1455,25 @@
 		)
 		(uuid "f90aa9c1-ce95-4c18-b386-980e1fb05039")
 	)
-	(wire
-		(pts
-			(xy 96.52 86.36) (xy 106.68 86.36)
+	(text "The traces should be cuttable"
+		(exclude_from_sim no)
+		(at 143.256 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
 		)
-		(stroke
-			(width 0)
-			(type default)
+		(uuid "26d30b49-d165-4fbb-9b11-f45bcdd0827b")
+	)
+	(text "Ground last three. No practical way to use more than 8 boards anyway"
+		(exclude_from_sim no)
+		(at 144.526 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
 		)
-		(uuid "fbf89566-1f33-41fe-a077-572ffa5eee39")
+		(uuid "e7b3e29e-74d3-4f80-96fb-1ed55d7fc520")
 	)
 	(label "V+ Can be 3-5v"
 		(at 96.52 58.42 0)
@@ -1963,76 +1857,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 106.68 90.17 90)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ef9a065-d7eb-4f21-b6f3-147a49572ca8")
-		(property "Reference" "A4"
-			(at 109.22 88.8999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "A0"
-			(at 109.22 91.4399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 106.68 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 106.68 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 106.68 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cd3eaa5a-cda7-492d-9e04-fbe07305059d")
-		)
-		(pin "2"
-			(uuid "973c9e88-30dc-4c8a-8016-5b3dd739e784")
-		)
-		(instances
-			(project "Haptics PWM module"
-				(path "/7afe7999-e845-4b92-8204-2a1ae91a07f1/6e6df99a-392d-4114-bb72-f3a526d61547"
-					(reference "A4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 190.5 80.01 270)
 		(unit 1)
@@ -2101,76 +1925,6 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 96.52 90.17 90)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "396a7414-b9bc-4e5c-b915-ecf4e703ba19")
-		(property "Reference" "A5"
-			(at 99.06 88.8999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "A0"
-			(at 99.06 91.4399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 96.52 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 96.52 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 96.52 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "40d4c407-40d4-48f9-980e-048a67e50bbc")
-		)
-		(pin "2"
-			(uuid "101a63b5-385b-414b-9dbb-65156777f2d6")
-		)
-		(instances
-			(project "Haptics PWM module"
-				(path "/7afe7999-e845-4b92-8204-2a1ae91a07f1/6e6df99a-392d-4114-bb72-f3a526d61547"
-					(reference "A5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 127 90.17 90)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -2179,7 +1933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41ca5045-aceb-4d33-86cf-6bbef59972f0")
-		(property "Reference" "A1"
+		(property "Reference" "A2"
 			(at 129.54 88.8999 90)
 			(effects
 				(font
@@ -2233,7 +1987,7 @@
 		(instances
 			(project "Haptics PWM module"
 				(path "/7afe7999-e845-4b92-8204-2a1ae91a07f1/6e6df99a-392d-4114-bb72-f3a526d61547"
-					(reference "A1")
+					(reference "A2")
 					(unit 1)
 				)
 			)
@@ -2389,7 +2143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "604ba8c6-bb43-4adc-bd04-c63934fe9ac7")
-		(property "Reference" "A3"
+		(property "Reference" "A0"
 			(at 149.86 88.8999 90)
 			(effects
 				(font
@@ -2443,7 +2197,7 @@
 		(instances
 			(project "Haptics PWM module"
 				(path "/7afe7999-e845-4b92-8204-2a1ae91a07f1/6e6df99a-392d-4114-bb72-f3a526d61547"
-					(reference "A3")
+					(reference "A0")
 					(unit 1)
 				)
 			)
@@ -2521,76 +2275,6 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 116.84 90.17 90)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a8c37bc-8165-48c3-aeb1-33f3189fe20b")
-		(property "Reference" "A0"
-			(at 119.38 88.8999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "A0"
-			(at 119.38 91.4399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 116.84 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 116.84 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4547f689-dd31-4977-9b75-adac49e89858")
-		)
-		(pin "2"
-			(uuid "48223bd0-db9b-44d8-8893-238fb107e130")
-		)
-		(instances
-			(project ""
-				(path "/7afe7999-e845-4b92-8204-2a1ae91a07f1/6e6df99a-392d-4114-bb72-f3a526d61547"
-					(reference "A0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 137.16 90.17 90)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -2599,7 +2283,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "882deec2-982d-44e1-a255-035f286364ca")
-		(property "Reference" "A2"
+		(property "Reference" "A1"
 			(at 139.7 88.8999 90)
 			(effects
 				(font
@@ -2653,7 +2337,7 @@
 		(instances
 			(project "Haptics PWM module"
 				(path "/7afe7999-e845-4b92-8204-2a1ae91a07f1/6e6df99a-392d-4114-bb72-f3a526d61547"
-					(reference "A2")
+					(reference "A1")
 					(unit 1)
 				)
 			)

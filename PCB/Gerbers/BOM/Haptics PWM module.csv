@@ -1,6 +1,6 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"U3";"TSSOP-28_4.4x9.7mm_P0.65mm";1;"PCA9685PW";;;
-2;"U1,U2";"SOIC-18W_7.5x11.6mm_P1.27mm";2;"ULN2803A";;;
-3;"R9,R8";"R_0805_2012Metric";2;"1k";;;
-4;"R7,R6,R5,R4,R3,R2,R1";"R_0805_2012Metric";7;"10k";;;
+1;"R6,R5,R4,R7,R3,R2,R1";"R_0805_2012Metric";7;"10k";;;
+2;"U3";"TSSOP-28_4.4x9.7mm_P0.65mm";1;"PCA9685PW";;;
+3;"U2,U1";"DIP-18_W7.62mm";2;"ULN2803A";;;
+4;"R9,R8";"R_0805_2012Metric";2;"1k";;;
 5;"C2,C1";"C_0805_2012Metric";2;"0.1uF";;;
